@@ -10,7 +10,7 @@ export default function Post({ postData }){
         <br />
         {postData.date}
     </Layout>
-    )
+  )
 }
 
 export async function getStaticPaths() {
