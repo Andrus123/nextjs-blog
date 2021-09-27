@@ -4,8 +4,8 @@ import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link';
 
-const name = 'Andrés Aquin'
-export const siteTitle = 'Next.js Sample Website'
+const name = 'Andrés K. Aquin'
+export const siteTitle = 'KDR'
 
 export default function Layout({ children, home }) {
     return (
@@ -14,7 +14,7 @@ export default function Layout({ children, home }) {
                 <link rel="icon" href="/favicon.ico" />
                 <meta 
                 name="decription"
-                content="Learn how to build a personal website using Next.js"
+                content="Andrés Kadir Aquin Flores: Software Developer based in South América"
                 />
                 <meta name="theme-color" content="#000000" />
                 <meta
