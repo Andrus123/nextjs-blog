@@ -15,6 +15,9 @@ export default function Project({ projectData }){
             <div className={utilStyles.lightText}>
                 <Date dateString={projectData.date} />
             </div>
+            <div className={utilStyles.img}>
+                <a href={projectData.url} target="_blank"><img src={projectData.coverImage}/></a>
+            </div>
             <div dangerouslySetInnerHTML={{__html: projectData.contentHtml}} />
         </article>
     </Layout>
