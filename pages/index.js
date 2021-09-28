@@ -52,7 +52,7 @@ export default function Home({ allPostsData, allProjectsData }) {
         </p>
         <p>
           {" "}
-          <span>NPM</span>: 70% | <span>Git</span>: 70% | <span>Java</span>:60%
+          <span>NPM</span>: 70% | <span>Git</span>: 70% | <span>Java</span>: 60%
           | <span>C#</span>: 50%
         </p>
         <p>
