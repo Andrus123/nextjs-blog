@@ -19,6 +19,11 @@ export default function Home({ allPostsData, allProjectsData }) {
           (This portfolio is build with{' '}
           <a href="https://nextjs.org/">Next.js</a>.)
         </p>
+        <h4>Skills:</h4>
+        <p> <span>HTML</span>: 90% | <span>CSS</span>: 90% | <span>JavaScript</span>:75% | <span>ReactJs</span>: 60%</p>
+        <p> <span>React Native</span>: 60% | <span>GraphQL</span>: 50% | <span>Node Js</span>:65%</p>
+        <p> <span>NPM</span>: 70% | <span>Git</span>: 70% | <span>Java</span>:60% | <span>C#</span>: 50%</p>
+        <p> <span>MongoDB</span>: 60% | <span>NextJs</span>: 50%</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingMd}>Projects</h2>
