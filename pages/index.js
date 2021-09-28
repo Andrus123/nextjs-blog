@@ -23,11 +23,14 @@ export default function Home({ allPostsData, allProjectsData }) {
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingMd}>Projects</h2>
         <ul className={utilStyles.list}>
-          {allProjectsData.map(({ id, date, title}) => (
+          {allProjectsData.map(({ id, date, title, coverImage}) => (
             <li className={utilStyles.listItem} key={id}>
               <Link href={`/projects/${id}`}>
                 <a>{title}</a>
               </Link>
+              <Link href={`/projects/${id}`}>
+                <a><img src={coverImage}/></a>
+                </Link>
               <br />
               <small className={utilStyles.lightText}>
                 <Date dateString={date} />
