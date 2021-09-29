@@ -15,10 +15,11 @@ export default function Home({ allPostsData, allProjectsData }) {
       <section className={utilStyles.headingMd}>
         <p>
           Hello, I'm <strong>Kadir</strong> (My second and memorable name), I'm
-          a Software Engineer and Translator (English/Spanish)
+          a Full-Stack Developer and Translator (English/Spanish)
         </p>
         <p>
-          My Approach to work is on the Front-End with React Js and Frameworks
+          My Approach to work is with the MERN Stack, also like to test new languages or
+          tecnologies.
         </p>
         <p>
           (This portfolio is build with{" "}
