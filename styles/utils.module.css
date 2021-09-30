@@ -56,3 +56,13 @@
     height: auto;
     background-color: black;
 }
+
+.social{
+    width: 1.5rem;
+    height: 1.5rem;
+    cursor: pointer;
+}
+.socialSection{
+    display: flex;
+    justify-content: space-evenly;
+}
