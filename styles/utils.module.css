@@ -61,6 +61,10 @@
     width: 1.5rem;
     height: 1.5rem;
     cursor: pointer;
+    color: black;
+}
+.social:hover{
+    color: red;
 }
 .socialSection{
     display: flex;
