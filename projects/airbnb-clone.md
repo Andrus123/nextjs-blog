@@ -5,7 +5,7 @@ coverImage: '../images/airbnbclone.jpg'
 url: 'https://chambers-856fb.web.app/'
 ---
 
-In order to learn React by building Projects, i build the Airbnb clone with **ReactJS** and **Date Picker API**. Fully deployed in **Firebase** and Mobile-Responsive Design.
+To learn React by building Projects, built the Airbnb clone with **ReactJS** and **Date Picker API**. is fully deployed on **Firebase** and Mobile-Responsive Design.
 
 Please visit the [website](https://chambers-856fb.web.app/) or press the first image
 ![Alt text](../images/datepicker.jpg "Date Picker")
