@@ -9,10 +9,10 @@ function Presentation() {
       </p>
       <p>
         My Approach to work is with the MERN Stack, also like to test new
-        languages or tecnologies.
+        languages or technologies.
       </p>
       <p>
-        (This portfolio is build with <a href="https://nextjs.org/">Next.js</a>
+        (This portfolio is built with <a href="https://nextjs.org/">Next.js</a>
         .)
       </p>
       <h4>Background: </h4>
