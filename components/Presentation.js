@@ -4,7 +4,7 @@ function Presentation() {
   return (
     <div>
       <p>
-        Hello, I'm <strong>Kadir</strong> (My second and memorable name), I'm a
+        Hello, I'm <strong>Kadir</strong> (My second and memorable name). I'm a
         Full-Stack Developer and Translator (English/Spanish)
       </p>
       <p>
@@ -17,8 +17,8 @@ function Presentation() {
       </p>
       <h4>Background: </h4>
       <p>
-        I'm a Computer Science Student, i am halfway through my career, also a
-        Business graduate, (Commercial Engineering Degree) but self-taught in
+        I'm a Computer Science Student, halfway through my career, also a 
+        degree in Business, (Commercial Engineering Degree) but self-taught in
         React and Web Development.
       </p>
       <strong>more info:</strong>{" "}
