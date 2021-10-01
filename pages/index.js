@@ -15,8 +15,8 @@ export default function Home({ allPostsData, allProjectsData }) {
       <Head>
         <title>{siteTitle}</title>
       </Head>
-        <SocialButtons/>
       <section className={utilStyles.headingMd}>
+        <SocialButtons/>
         <Presentation/>
         <Skills/>
       </section>
