@@ -22,7 +22,7 @@ function Presentation() {
         React and Web Development.
       </p>
       <strong>more info:</strong>{" "}
-      <a href="https://drive.google.com/file/d/1vDQMDziRWz8oCk8_igX5qtwWrvE9BTUv/view?usp=sharing">
+      <a href="https://drive.google.com/file/d/1tbyfxXcj7i_L3_AEnwupFN_qwNwVz-yv/view?usp=sharing">
         CV English
       </a>{" "}
       | <spacer> </spacer>
