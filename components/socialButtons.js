@@ -8,7 +8,7 @@ const SocialButtons = () => {
         <div className={utilStyles.socialSection}>
             <a href="https://github.com/Andrus123" className={utilStyles.social} target="_blank"><FontAwesomeIcon icon={faGithub}/></a>
             <a href="https://twitter.com/andykee77" className={utilStyles.social} target="_blank"><FontAwesomeIcon icon={faTwitter}/></a>
-            <a href="www.linkedin.com/in/andrés-aquin" className={utilStyles.social} target="_blank"><FontAwesomeIcon icon={faLinkedin}/></a>
+            <a href="https://www.linkedin.com/in/andr%C3%A9s-aquin-43a122141/" className={utilStyles.social} target="_blank"><FontAwesomeIcon icon={faLinkedin}/></a>
             <a href="mailto:akaquin@umsa.bo" className={utilStyles.social} target="_blank"><FontAwesomeIcon icon={faGoogle}/></a>
         </div>
     )
